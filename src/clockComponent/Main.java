@@ -7,7 +7,11 @@ public class Main {
 
 
 	public static void main(String[] args) {
-
+       /*
+        * 
+        * 
+        * my second commit
+        */
 		Timer times= new Timer(2,33,32,"PM","CST");
 		DigitalClock digital = new DigitalClock(times);
 		AnalogClock analog=new AnalogClock(times);
